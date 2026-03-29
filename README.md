@@ -1,2 +1,2 @@
 # Renamed
-I have renamed my github account username after long 6yrs and now its @partiallywritten
+I have renamed my github account username after long 6yrs and now its [@partiallywritten](https://github.com/partiallywritten)
